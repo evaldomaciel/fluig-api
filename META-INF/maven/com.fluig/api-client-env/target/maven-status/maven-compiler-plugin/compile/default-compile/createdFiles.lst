@@ -1,0 +1,10 @@
+com\fluig\api\client\env\CloseListener.class
+com\fluig\api\client\env\DesktopClient$1.class
+com\fluig\api\client\env\DesktopClient.class
+com\fluig\api\client\env\DesktopClient$InputStreamMessage.class
+com\fluig\api\client\env\ICloseListener.class
+com\fluig\api\client\env\DesktopClient$Callback.class
+com\fluig\api\client\env\FluigClient.class
+com\fluig\api\client\env\IBrowserLauncher.class
+com\fluig\api\client\env\BareBonesBrowserLaunch.class
+com\fluig\api\client\env\BrowserException.class
